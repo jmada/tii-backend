@@ -14,8 +14,11 @@
 
 - Item
 
-  - title
   - description
+  - type
+  - serial_number
+  - image
+  - created_at
 
 - UserItem
 
