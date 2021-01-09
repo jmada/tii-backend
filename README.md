@@ -12,6 +12,13 @@
   - password
   - groups: user or admin (can only belong to one)
 
+- UserProfile
+
+  - first_name
+  - last_name
+  - image
+  - created_at
+
 - Item
 
   - description
