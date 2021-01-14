@@ -32,3 +32,24 @@
 
   - user_id
   - item_id
+
+- Brand
+
+  - name
+  - description
+  - created_at
+  - updated_at
+
+- Model
+
+  - name
+  - description
+  - created_at
+  - updated_at
+
+- Operation System
+
+  - name
+  - description
+  - created_at
+  - updated_at
