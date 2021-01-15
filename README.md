@@ -22,7 +22,9 @@
 - Item
 
   - description
-  - type
+  - brand_id
+  - model_id
+  - operating_system_id
   - serial_number
   - image
   - created_at
@@ -47,7 +49,7 @@
   - created_at
   - updated_at
 
-- Operation System
+- Operating System
 
   - name
   - description
