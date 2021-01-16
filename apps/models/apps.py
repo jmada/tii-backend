@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class BrandsConfig(AppConfig):
-    name = 'brands'
+class ModelsConfig(AppConfig):
+    name = 'models'
